@@ -3,4 +3,4 @@ services
   type: web 
   env: node
   buildCommand : npm run build
-  startCommand: npm run dev -- --port 3000
+  startCommand: npm run dev -- --port 4000
